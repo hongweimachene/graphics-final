@@ -10,5 +10,6 @@ Final Project
   -loops through all lights when calculating diffuse and specular  
   
 ## New Features:
-  -Cone (cx, cy ,cz, r, height)
+  -Cone (cx, cy ,cz, r, height)    
+  cx, cy, cz being the center of the base of the cone   
   
