@@ -1,0 +1,29 @@
+constants kons 0.3 0.4 0.6 0.0 0.0 0.0 0.1 0.2 0.5
+light l0 1 1 1 255 255 235
+light l1 -1 1 1 255 245 255
+light l2 1 0 1 255 255 245
+light l3 0 1 1 255 255 255
+push
+move 250 150 0
+rotate x 20
+scale 25 25 25
+mesh :al
+pop
+push
+move 250 100 0
+rotate x 10
+scale 25 25 25
+mesh :airboat
+pop
+push
+move 400 400 0
+rotate x 20
+scale 65 65 65
+mesh :dodecahedron
+pop
+push
+move 250 200 0
+rotate x -10
+rotate y 30
+cone 0 0 0 50 50
+save ooo.png
