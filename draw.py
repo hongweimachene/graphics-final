@@ -114,7 +114,7 @@ def draw_polygons( polygons, screen, zbuffer, view, ambient, lights, symbols, re
         point+= 3
 
 def add_mesh( polygons, filename ):
-    file = open(filename,'r')
+    file = open('obj/' + filename,'r')
     lines = file.readlines()
 
     #geometric vertices
