@@ -1,4 +1,4 @@
-test: face.mdl main.py matrix.py mdl.py display.py draw.py gmath.py
+test: meh.mdl main.py matrix.py mdl.py display.py draw.py gmath.py
 	python main.py meh.mdl
 
 clean:
