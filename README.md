@@ -13,5 +13,5 @@ Final Project
   
 ## New Features:
   -Cone (cx, cy ,cz, r, height)    
-  cx, cy, cz being the center of the base of the cone   
+   cx, cy, cz being the center of the base of the cone   
   
